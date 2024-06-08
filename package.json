@@ -1,0 +1,16 @@
+{
+  "name": "backend-nodejs",
+  "version": "1.0.0",
+  "description": "NodeJs course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Backend",
+    "JavaScript",
+    "NodeJs"
+  ],
+  "author": "Rishi Raj Anand",
+  "license": "ISC"
+}
